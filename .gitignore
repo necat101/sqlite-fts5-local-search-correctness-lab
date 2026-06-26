@@ -1,0 +1,8 @@
+# generated
+corpus/
+results/
+*.db
+*.db-*
+__pycache__/
+*.pyc
+.DS_Store
